@@ -1,0 +1,7 @@
+C:\ictpretech\ATMprogram\bin\Debug\ATMprogram.exe.config
+C:\ictpretech\ATMprogram\bin\Debug\ATMprogram.exe
+C:\ictpretech\ATMprogram\bin\Debug\ATMprogram.pdb
+C:\ictpretech\ATMprogram\obj\Debug\ATMprogram.csproj.AssemblyReference.cache
+C:\ictpretech\ATMprogram\obj\Debug\ATMprogram.csproj.CoreCompileInputs.cache
+C:\ictpretech\ATMprogram\obj\Debug\ATMprogram.exe
+C:\ictpretech\ATMprogram\obj\Debug\ATMprogram.pdb
